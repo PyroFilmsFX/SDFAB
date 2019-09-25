@@ -14,7 +14,7 @@ Was tasked to replicate a Speed Dial Floating Action Button to implement into a 
 # What?
 SDFAB is an animated collection of links called a Speed Dial Floating Action Button (SDFAB) that can be remotely controlled.
 
-All elements are created OTF (On-The-Fly) as soon as the initial `[popOverView getRemote];` method is called. This method gets a JSON file from a webserver, which itself is a basic config file. This allows any currently deployed applications to recieve the most up-to-date configuration data, as it may change often or quickly, not requiring constant redeployment of applications.
+All elements are created OTF (On-The-Fly) as soon as the initial `[self getRemote];` method is called. This method gets a JSON file from a webserver, which itself is a basic config file. This allows any currently deployed applications to recieve the most up-to-date configuration data, as it may change often or quickly, not requiring constant redeployment of applications.
 
 Tapping the large blue `+` button causes new buttons to appear with the given remote config contents. The buttons will be shown in reverse order to simulate them "popping out" of the main button.
 
