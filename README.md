@@ -22,7 +22,7 @@ Tapping the new `X` collapses the button list back.
 
 Tapping any of the buttons will take you to a given external link.
 
-# SET UP:
+# Usage:
 To add to your own ObjC project, you will need the `PopOverView.h` and `PopOverView.m` files.
 
 ```
