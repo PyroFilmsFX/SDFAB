@@ -1,5 +1,5 @@
 # SDFAB
-Fully programatic ObjC replication of the [Speed Dial Floating Action Button (or SDFAB) from the Framework7 web framework](https://v1.framework7.io/docs/floating-action-button.html), generated dynamically from a remote JSON config file.
+Fully programatic ObjC replication of the [Speed Dial Floating Action Button (or SDFAB) from the Framework7 web framework](https://v1.framework7.io/docs/floating-action-button.html), dynamically generated from a remote JSON config file.
 
 ## Speed Dial Floating Action Button in Framework7:
 ![](FABSpeedDialDemo.gif)
