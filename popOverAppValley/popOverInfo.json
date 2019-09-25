@@ -1,0 +1,17 @@
+{
+    "displayTime": 10.0,
+    "linkContents": {
+        "1": {
+            "name": "Example",
+            "link": "https://examp.le",
+            "iconLink": "https://examp.le/example.png",
+            "color": "orange"
+        },
+        "2": {
+            "name": "Twitter",
+            "link": "https://twitter.com/appvalley_vip",
+            "iconLink": "https://examp.le/twitterTransparent.png",
+            "color": "blue"
+        }
+    }
+}
